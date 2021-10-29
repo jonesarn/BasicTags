@@ -1,0 +1,14 @@
+body{
+    background-color:aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+.class1{
+    padding:10px;
+    margin-left:100px;
+    
+}
+#example1{
+    font-family: fantasy;
+    color:blanchedalmond;
+    border-style:solid;
+}
